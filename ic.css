@@ -1,0 +1,262 @@
+body{
+    background-color: rgb(26, 22, 22);
+}
+#button{
+    height:25px;
+    width:35px;
+    background-color:black;
+    border:0px;
+}
+#menu-button{
+    width:35px;
+    height:25px;
+    border:0px;
+    padding-right: 8px;
+   
+}
+.b input[type=text]{
+    background-color:black;
+    border:1px solid black;
+    color:white;
+    padding-left: 14px;
+    height: 30px;
+    
+}
+#search-icon{
+    width:25px;
+    height:29px;
+    padding-left:6px;
+  
+}
+#button-holder{
+    width:25px;
+    height:30px;
+    background-color: black;
+    border: 0px;
+   
+}
+.nav-item{
+    padding-left:18px;
+    
+}
+.nav-link{
+    color:white;
+}
+.b{
+    padding-top: 5px;
+}
+#message{
+    width:25px;
+    height:30px;
+    background-color: black;
+    border: 0px;
+    margin-right:170px;
+     
+}
+#text{
+    width:25px;
+    height:29px;
+    
+    
+}
+#settings{
+    width:25px;
+    height:30px;
+    background-color: black;
+    border: 0px;
+   margin-right: 170px;
+    margin-left:-150px;
+}   
+#set{
+    width:25px;
+    height:20px;
+  
+} 
+#bell{
+    width:35px;
+    height:30px;
+  
+} 
+#notify{
+    width:35px;
+    height:30px;
+    background-color: black;
+    border: 0px;
+   margin-right: 170px;
+    margin-left:-150px;
+}
+#sign{
+    width:35px;
+    height:30px;
+    background-color: black;
+    border: 0px;
+   margin-right: 40px;
+    margin-left:-150px;
+}
+#person{
+    width:35px;
+    height:30px;
+}
+.navbar navbar-expand-lg {
+    background-color: black;
+    color:black;
+}
+#u{
+    background-color:black;
+}
+.image{
+    height:180px;
+    width:350px;
+}
+.img{
+    height: 180px;
+    width:350px;
+    border-radius: 8px;
+}
+#new{
+    width:900px;
+    height:600px;
+}
+#carouselExampleIndicators{
+    width:1530px;
+    height:600px;
+}
+#deals{
+    padding-top: 60px;
+}
+h2{
+    color:white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+}
+.p{
+    color:white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:-30px;
+    padding-top:100px;
+}
+h4{
+    color:white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:-230px;
+    padding-top:30px;
+}
+
+.arrow{
+    width:60px;
+    height:50px;
+   
+    border:0px;
+    border-radius: 50%;
+    margin-left:1220px;
+   
+}
+.arrow2{
+    width:60px;
+    height:50px;
+   
+    margin-right:-500px;
+    margin-left:-180px;
+    border:0px;
+    border-radius: 50%;
+}
+#left{
+    width:60px;
+    height:50px;
+    border-radius: 50%;
+    margin-left: -4px;
+  
+}
+#right{
+    width:60px;
+    height:50px;
+    border-radius: 50%;
+    margin-left: -4px;
+   
+}
+.l{
+    padding-left:-55px;
+    padding-top:95px;
+}
+ .row mb-2 my-4{
+     padding-left: -35px;
+ }   
+ #yo{
+     margin-top: -210px;
+ }
+ #trending{
+     padding-top: 460px;
+     padding-left: 20px;
+ }
+ .trend{
+     padding-left:15px;
+     height:80px;
+     width:100px;
+ }
+ .games{
+    height:250px;
+    width:180px;
+ }
+ #origin{
+     padding-left: 650px;
+ }
+ 
+ #p{
+    color:white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 650px;
+    padding-top:100px;
+ }
+ #t{
+     color: rgb(238, 216, 216);
+     padding-left:350px;
+     padding-right:350px;
+     padding-top: 20px;
+ }
+ .r{
+     font-size: 50px;
+     color:white;
+     margin-left: -20px;
+ }
+ .card-header1{
+     background-color: rgb(90, 108, 121);
+ }
+ .card-header2{
+    background-color: rgb(230, 53, 53);
+}
+.card-body1{
+    background-color: rgb(62, 71, 78);
+}
+.card-body2{
+    background-color: rgb(95, 38, 38);
+}
+.v{
+    color:white;
+}
+.d{
+    color:whitesmoke;
+}
+.question{
+    color:rgb(182, 175, 175);
+    font-size: 19px;
+}
+.card-body{
+    background-color: rgb(62, 71, 78);
+    
+}
+#load{
+    width:140px;
+    height:50px;
+    background-color: gray;
+    margin-top: 20px;
+    border: 0px;
+    border-radius: 10px;
+    margin-left: 490px;
+}
+.content{
+    color:rgb(240, 229, 229);
+}
